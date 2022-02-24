@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Submission Test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "python -m pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
